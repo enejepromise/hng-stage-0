@@ -120,8 +120,7 @@ If an invalid endpoint is accessed (e.g., a non-existing route), the application
 
 The API is deployed on **[Render](https://render.com/)**, and it is publicly accessible at the following URL:
 
-- **Deployed URL**: <a href="[https://-hng12-stage-zero.onrender.com](https://hng-stage-0-8ah8.onrender.com)">`https://hng-stage-0-8ah8.onrender.com`</a>
-
+- **Deployed URL**: [deployed link](https://hng-stage-0-8ah8.onrender.com)
 ### CORS
 
 CORS is handled using the `flask_cors` library, ensuring that the API can be accessed by client applications running on different origins.
