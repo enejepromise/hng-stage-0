@@ -120,7 +120,7 @@ If an invalid endpoint is accessed (e.g., a non-existing route), the application
 
 The API is deployed on **[Render](https://render.com/)**, and it is publicly accessible at the following URL:
 
-- **Deployed URL**: <a href="https://-hng12-stage-zero.onrender.com">`https://enejepromise-hng12-stage-zero.onrender.com`</a>
+- **Deployed URL**: <a href="[https://-hng12-stage-zero.onrender.com](https://hng-stage-0-8ah8.onrender.com)">`https://enejepromise-hng12-stage-zero.onrender.com`</a>
 
 ### CORS
 
